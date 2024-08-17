@@ -1,0 +1,38 @@
+/* styles.css */
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.profile {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile h3 {
+    margin-top: 0;
+    color: #007bff;
+}
+
+.profile p {
+    margin: 0.5rem 0;
+    color: #555;
+}
